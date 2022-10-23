@@ -5,13 +5,12 @@ This is a tool to provide insights and a visual way to analyze positions in the 
 # Example:
 ![alt text](https://github.com/NirOren10/PositionGrapher/blob/master/Position_plot.png?raw=true)
 
+## The architecture:
+![alt text](https://github.com/NirOren10/PositionGrapher/blob/master/architecture.png?raw=true)
 
 ## Long Description:
 For a brief introduction to currency trading (Forex) refer to:
 https://www.etoro.com/trading/a-guide-to-trading-currencies/#What-is-currency-trading
-
-## The architecture:
-![alt text](https://github.com/NirOren10/PositionGrapher/blob/master/architecture.png?raw=true)
 
 ### How do our systems work?
 The rate collector:
