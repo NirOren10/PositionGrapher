@@ -43,13 +43,13 @@ Timestamp | Source | Type | Rate
  --- | --- | --- |--- 
 1621890000200 | Source A | offer | 1.22050 
 	
-Timestamp: 
+- Timestamp: 
 Indication of the time in Unix Timestamp. For Reference: https://www.unixtimestamp.com/
-Bank name: 
+- Bank name: 
 name of the source that sent us the quote
-Type: 
+- Type: 
 offer/bid. Offer is showing the price at which the bank is willing to sell to you that currency, while the bid is the price at which the bank is willing to buy the currency from you.
-Rate:
+- Rate:
 The exchange rate of Dollars to Euros, USD to EUR. 
 
 Position Data(MongoDB): This is a list of the trading positions on a certain day. Each position includes:
